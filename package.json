@@ -3,6 +3,7 @@
   "displayName": "PackageStalker",
   "description": "",
   "version": "0.0.1",
+  "repository": "https://github.com/vincesoftware/PackageStalker",
   "engines": {
     "vscode": "^1.84.0"
   },
